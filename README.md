@@ -49,7 +49,9 @@
 
 ## Summary
       
-        Looking at the trends and patterns, it is clear that there is a significant demand for bike rides during office commuting hours (7-9AM, 5-7PM) on weekdays and 10-4PM on weekends. Demand is primarily driven by short trip riders (<10/20 mins). Being a subscriber also brings in repeat demand for rides.
+        Looking at the trends and patterns, it is clear that there is a significant demand for bike rides during 
+        office commuting hours (7-9AM, 5-7PM) on weekdays and 10-4PM on weekends.
+        Demand is primarily driven by short trip riders (<10/20 mins). Being a subscriber also brings in repeat demand for rides.
  
   ### For future analysis
          Below two visualizations will help understanding the location where there is a demand to keep the bikes available for riders. 
