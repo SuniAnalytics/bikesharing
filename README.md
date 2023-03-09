@@ -14,11 +14,11 @@
    1. Majority of rides are under 10/20 mins, which is visible via the spike in the curve 
    2. Similar to overall pattern, majority of rides are under 20 mins across genders. Male riders took significantly more rides than female.
    
-   ## When were the rides taken
+   ### When were the rides taken
    3. As expected, there is a high demand for rides during work commute hours in weekdays and day times during weekends.
    4. Among all genders, the pattern for demand is similar to overall trends. Male riders took significantly more rides than other genders.
 
-   ## Ride patterns among subcribers vs nonsubscribers
+   ### Ride patterns among subcribers vs nonsubscribers
    5. As expected, there is a high demand for rides by subscribers during weekdays (regular/repeat riders). 
    Demand seems to spike for unsubscribed customers during weekends
 
@@ -27,11 +27,11 @@
   ### Landing Page for the story
   ![](https://github.com/SuniAnalytics/bikesharing/blob/main/Resources/Story%20Landing%20Page.png)
   
- ### Check out duration by all users
+  ### Check out duration by all users
  
   ![](https://github.com/SuniAnalytics/bikesharing/blob/main/Resources/Viz1%20-%20Check%20out%20duration%20by%20users.png)
   
- ### Check out duration by genders
+  ### Check out duration by genders
  
   ![](https://github.com/SuniAnalytics/bikesharing/blob/main/Resources/Viz2%20-%20Check%20out%20duration%20by%20gender.png)
   
