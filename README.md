@@ -37,7 +37,8 @@
 
  
   ### For future analysis
-         Below two visualizations will help understanding the location where there is a demand to keep the bikes available for riders. These show top starting and ending locations on the map
+         Below two visualizations will help understanding the location where there is a demand to keep the bikes available for riders. 
+         These show top starting and ending locations on the map
   
   #### Top starting locations  
   
